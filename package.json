@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "name": "mi-proyecto",
     "version": "1.0.0",
     "description": "Proyecto con pruebas unitarias",
@@ -12,3 +13,19 @@
     }
   }
   
+=======
+  "name": "mi-proyecto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
+>>>>>>> 14e65306529b31cda04b3a6dccc7856b505d4cb3
