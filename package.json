@@ -1,0 +1,14 @@
+{
+    "name": "mi-proyecto",
+    "version": "1.0.0",
+    "description": "Proyecto con pruebas unitarias",
+    "main": "app.js", 
+    "scripts": {
+      "test": "jest"
+    },
+    "dependencies": {},
+    "devDependencies": {
+      "jest": "^29.0.0"
+    }
+  }
+  
